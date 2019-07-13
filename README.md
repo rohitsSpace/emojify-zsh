@@ -1,8 +1,9 @@
 
 ## Emojify-Zsh Theme
 
-Emojify-zsh is a [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) theme that adds emojis to your zsh terminal.
-Emojify will display a random emoji for every command you type, as of now Emojify Support More than 350 Emojis. If you want me to add more emojies in then create an issue and assign it to me :wink:.
+Emojify-zsh is a [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) fun theme for emoji lovers that adds emojis to your zsh terminal and make your terminal cool.
+
+Emojify will display a random emoji after every successful command you type if your command failed or you type `Command+C` then it will show a `Red Arrow` to indicate that your command failed. As of now Emojify-Zsh Support More than 350 Emojis. If you want me to add more emojies in then create an issue and assign it to me :wink:, I'll try to add more.
 
 
 ### Prerequisites
@@ -18,6 +19,8 @@ Emojify will display a random emoji for every command you type, as of now Emojif
 ```
 
 2. Set `ZSH_THEME` to `emojify_zsh` in your `~/.zshrc`.
+
+  > **Note:** `Make sure you are not exporting this in the last of the ~/.zshrc` it will not going to work for new session of the terminal, My recommendation is Export this at the top of the file.
 
 ```bash
 $ vim ~/.zshrc
