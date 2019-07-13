@@ -2,7 +2,7 @@
 ## Emojify-Zsh Theme
 
 Emojify-zsh is a [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) theme that adds emojis to your zsh terminal.
-Emojify will display a random emoji for every command you type, as of now Emojify Support More than 350 Emojis.
+Emojify will display a random emoji for every command you type, as of now Emojify Support More than 350 Emojis. If you want me to add more emojies in then create an issue and assign it to me :wink:.
 
 
 ### Prerequisites
