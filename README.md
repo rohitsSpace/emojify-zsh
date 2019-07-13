@@ -1,9 +1,11 @@
 
+![image](images/demo/emojify_zsh.gif)
+
 ## Emojify-Zsh Theme
 
 Emojify-zsh is a [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) fun theme for emoji lovers that adds emojis to your zsh terminal and make your terminal cool.
 
-Emojify will display a random emoji after every successful command you type if your command failed or you type `Command+C` then it will show a `Red Arrow` to indicate that your command failed. As of now Emojify-Zsh Support More than 350 Emojis. If you want me to add more emojies in then create an issue and assign it to me :wink:, I'll try to add more.
+Emojify will display a random emoji after every successful command you type if your command failed or you type `CTRL+C` then it will show a `Red Arrow` to indicate that your command failed. As of now Emojify-Zsh Support More than 350 Emojis. If you want me to add more emojies in then create an issue and assign it to me :wink:, I'll try to add more.
 
 
 ### Prerequisites
