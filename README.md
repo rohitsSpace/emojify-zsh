@@ -26,7 +26,9 @@ Emojify will display a random emoji after every successful command you type if y
 
 ```bash
 $ vim ~/.zshrc
- # ZSH_THEME='emojify_zsh'
+
+ZSH_THEME='emojify_zsh'
+
 ```
 
 3. Reload your zsh configuration and Voila! Emojify is watching over you. :sunglasses:
