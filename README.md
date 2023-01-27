@@ -17,7 +17,7 @@ Emojify will display a random emoji after every successful command you type if y
 1. Download Emojify-zsh theme as a oh-my-zsh custom theme:
 
 ```bash
- $ mkdir -p $ZSH_CUSTOM/themes && curl -o $ZSH_CUSTOM/themes/emojify_zsh.zsh-theme https://raw.githubusercontent.com/Rohitturbot/emojify-zsh/master/emojify_zsh.zsh-theme
+ $ mkdir -p $ZSH_CUSTOM/themes && curl -o $ZSH_CUSTOM/themes/emojify_zsh.zsh-theme https://raw.githubusercontent.com/rohitsSpace/emojify-zsh/master/emojify_zsh.zsh-theme
 ```
 
 2. Set `ZSH_THEME` to `emojify_zsh` in your `~/.zshrc`.
